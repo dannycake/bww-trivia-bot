@@ -1,0 +1,20 @@
+{
+  "name": "bww-trivia-bot",
+  "version": "1.0.0",
+  "main": "solve.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^20.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
