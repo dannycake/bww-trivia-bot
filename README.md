@@ -7,7 +7,7 @@ Automatically answers Buffalo Wild Wings trivia questions using Puppeteer and Go
 2. Clone this repository
 3. Run `npm install` in the repository directory
 4. Create a `cookies.json` file with your BWW account cookies. (I used Fiddler + the mobile app to grab mine, but you could probably use their actual site)
-5. Run `node index.js`
+5. Run `node solve.js`
 
 The bot will automatically find questions and answer it to the best of its ability. 
 
